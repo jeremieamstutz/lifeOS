@@ -1,0 +1,6 @@
+{
+  "name": "taxonomy-folder-creator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Creates folder structure from a taxonomy markdown file"
+}

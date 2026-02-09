@@ -1,0 +1,384 @@
+000 IT & Systems
+    010 Computer Setup
+        011 Operating systems
+        012 System preferences
+        013 Installed applications
+        014 Organization
+    020 Backup & Recovery
+        021 Backup schedules
+        022 Recovery media
+        023 Disk images
+        024 Cloud sync settings
+        025 Recovery codes
+    030 Digital Assets
+        031 Templates
+        032 Fonts & icons
+        033 Wallpapers & themes
+        034 Presets & profiles
+        035 Datasets
+        036 Code gists
+    040 Tools & Utilities
+        041 Software licenses
+        042 Browser extensions
+        043 Credentials & API keys
+        044 Recovery codes
+        045 Automation scripts
+    050 Archives
+        051 Old devices
+        052 Legacy software
+        053 Exported accounts
+
+100 Personal Identity
+    110 Legal Documents
+        111 Birth certificate
+        112 Passport & IDs
+        113 Social security
+        114 Citizenship documents
+    120 Government Records
+        121 Tax returns
+        122 Voter registration
+        123 Permits & licenses
+        124 Legal filings
+        125 Municipal registration
+            125.01 Registration documents
+            125.02 Change of address forms
+            125.03 Residence certificates
+            125.04 Registration confirmations
+    130 Estate Planning
+        131 Wills & trusts
+        132 Power of attorney
+        133 Beneficiary forms
+        134 Asset inventory
+    140 Personal Records
+        141 Resume & CV
+        142 Diplomas & degrees
+        143 Certifications
+        144 Awards & achievements
+    150 Memberships
+        151 Professional associations
+        152 Clubs & organizations
+        153 Loyalty programs
+        154 Subscriptions
+
+200 Finance
+    210 Banking
+        211 Accounts
+        212 Bank statements
+        213 Transactions
+        214 Credit & debit cards
+    220 Investments
+        221 Brokerage accounts
+        222 Retirement accounts
+        223 Investment statements
+        224 Portfolio tracking
+    230 Taxes
+        231 Tax returns
+        232 Tax documents
+        233 Deductions & receipts
+        234 Tax planning
+        235 Guides
+    240 Insurance
+        241 Health insurance
+        242 Auto insurance
+        243 Home/renters insurance
+        244 Life insurance
+        245 Policy documents
+    250 Debt & Loans
+        251 Mortgage documents
+        252 Student loans
+        253 Auto loans
+        254 Credit cards
+        255 Payment history
+    260 Budgeting
+        261 Monthly budgets
+        262 Expense tracking
+        263 Financial goals
+        264 Net worth tracking
+    270 Bills & Payments
+        271 Utility bills
+        272 Recurring subscriptions
+        273 Payment confirmations
+        274 Service agreements
+    280 Major Purchases
+        281 Purchase receipts
+            281.01 Software purchases
+            281.02 Entertainment purchases
+            281.03 Electronics & Technology
+            281.04 Clothing & Apparel
+            281.05 Home & Furniture
+            281.06 Books & Media
+            281.07 Tools & Equipment
+            281.08 Travel & Transportation
+            281.09 Food & Dining
+            281.10 Gifts
+            281.11 Health & Fitness equipment
+            281.12 Education & Courses
+        282 Warranties
+        283 Product manuals
+        284 Return records
+
+300 Health & Wellness
+    310 Medical Records
+        311 Doctor visits
+        312 Lab results
+        313 Imaging & scans
+        314 Medical history
+    320 Prescriptions
+        321 Current medications
+        322 Prescription history
+        323 Pharmacy records
+        324 Medication schedules
+    330 Insurance & Billing
+        331 Insurance cards
+        332 Benefits
+        333 Medical bills
+        334 HSA/FSA records
+    340 Preventive Care
+        341 Immunization records
+        342 Annual checkups
+        343 Screening results
+        344 Preventive plans
+    350 Dental & Vision
+        351 Dental records
+        352 Vision prescriptions
+        353 Treatment plans
+        354 X-rays & imaging
+    360 Mental Health
+        361 Therapy notes
+        362 Self-care resources
+        363 Meditation
+        364 Journal entries
+    370 Fitness
+        371 Workout plans
+        372 Exercise logs
+        373 Body measurements
+        374 Progress photos
+    380 Nutrition
+        381 Meal plans
+        382 Recipes
+        383 Dietary tracking
+        384 Nutrition research
+
+400 Home & Property
+    410 Home Ownership
+        411 Deed & title
+        412 Mortgage documents
+        413 Property tax records
+        414 HOA documents
+    420 Rental
+        421 Lease agreements
+        422 Rent receipts
+        423 Landlord communications
+        424 Security deposit
+    430 Maintenance
+        431 Repair records
+        432 Contractor contacts
+        433 Home improvement projects
+        434 Appliance manuals
+    440 Utilities
+        441 Electric & gas
+        442 Water & sewer
+        443 Internet & phone
+        444 Trash & recycling
+    450 Home Inventory
+        451 Asset register
+        452 Photos & documentation
+        453 Appraisals
+        454 Serial numbers
+    460 Vehicles
+        461 Title & registration
+        462 Maintenance records
+        463 Repair history
+        464 Fuel logs
+    470 Outdoor & Garden
+        471 Landscaping plans
+        472 Planting schedules
+        473 Equipment manuals
+        474 Seasonal maintenance
+    480 Property Search
+        481 Property listings
+        482 Viewing notes
+        483 Application documents
+
+500 Family & Relationships
+    510 Family Documents
+        511 Family tree
+        512 Birth & marriage certificates
+        513 Adoption records
+        514 Family history
+    520 Children
+        521 School records
+        522 Medical records
+        523 Activities & sports
+        524 Art & projects
+        525 Growth milestones
+    530 Pets
+        531 Adoption records
+        532 Veterinary records
+        533 Vaccination history
+        534 Pet insurance
+    540 Relationships
+        541 Contact lists
+        542 Gift ideas & tracking
+        543 Special occasions
+        544 Communication logs
+    550 Caregiving
+        551 Care schedules
+        552 Medical proxy
+        553 Care instructions
+        554 Emergency contacts
+
+600 Career & Work
+    610 Job Search
+        611 Resumes & cover letters
+        612 Job applications
+        613 Interview prep
+        614 Networking contacts
+    620 Employment
+        621 Employment contracts
+        622 Performance reviews
+        623 Pay stubs
+        624 Benefits documents
+        625 Work policies
+        626 Work certificates
+        627 Projects
+        628 Templates
+        629 Repositories
+    630 Development
+        631 Training courses
+        632 Certifications
+        633 Conferences
+        634 Industry research
+    640 Side Projects
+        641 Projects
+        642 Business ideas
+        643 Freelance work
+        644 Client contracts
+    650 Work Portfolio
+        651 Work samples
+        652 Case studies
+        653 Testimonials
+        654 Achievement records
+    660 Remote Work
+        661 Home office setup
+        662 Equipment inventory
+        663 Expense reimbursements
+        664 Time tracking
+    670 Unemployment
+        671 Benefit applications
+        672 Claim documents
+        673 Payment records
+        674 Job search logs
+
+700 Education & Learning
+    710 Formal Education
+        711 Transcripts
+        712 Course materials
+        713 Assignments & papers
+        714 Graduation records
+        715 Internships
+    720 Self-Education
+        721 Online courses
+        722 Book notes
+        723 Tutorial projects
+        724 Study materials
+    730 Skills Development
+        731 Skill assessments
+        732 Practice projects
+        733 Progress tracking
+        734 Learning goals
+        735 Notes
+    740 Languages
+        741 Language courses
+        742 Vocabulary lists
+        743 Practice materials
+        744 Fluency tracking
+    750 Reference Materials
+        751 Research papers
+        752 How-to guides
+        753 Documentation
+        754 Bookmarks & links
+
+800 Creative & Hobbies
+    810 Photography
+        811 Photo library
+        812 Edited photos
+        813 Photo albums
+        814 Camera settings
+    820 Music
+        821 Music library
+        822 Playlists
+        823 Sheet music
+        824 Instrument practice
+    830 Video
+        831 Video projects
+        832 Raw footage
+        833 Finished videos
+        834 Video assets
+    840 Writing
+        841 Drafts & manuscripts
+        842 Published works
+        843 Writing prompts
+        844 Research notes
+    850 Art & Design
+        851 Digital artwork
+        852 Design projects
+        853 Sketches & concepts
+        854 Design assets
+        855 Inspirations
+    860 Gaming
+        861 Game saves
+        862 Screenshots
+        863 Gaming profiles
+        864 Mods
+    870 Collections
+        871 Collection catalogs
+        872 Wishlist items
+        873 Valuation records
+        874 Collection photos
+    880 DIY & Crafts
+        881 Project plans
+        882 Patterns & templates
+        883 Material lists
+        884 Tutorial resources
+    890 Entertainment
+        891 Movies
+        892 Books
+        893 Music
+        894 Games
+
+900 Social & Communication
+    910 Email
+        911 Personal email
+        912 Work email
+        913 Email archives
+        914 Newsletter subscriptions
+    920 Social Media
+        921 Account backups
+        922 Profile information
+        923 Content archives
+        924 Privacy settings
+    930 Messaging
+        931 Chat histories
+        932 Contact groups
+        933 Shared media
+        934 Important conversations
+    940 Events & Calendar
+        941 Personal calendar
+        942 Event invitations
+        943 Appointments
+        944 Recurring events
+    950 Travel
+        951 Itineraries
+        952 Bookings
+        953 Travel documents
+        954 Trip photos
+        955 Expense records
+        956 Checklists
+        957 Visas
+        958 Rental agreements
+    960 Community
+        961 Volunteer work
+        962 Donations
+        963 Local events
+        964 Neighborhood info
