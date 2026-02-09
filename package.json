@@ -1,6 +1,9 @@
 {
-  "name": "taxonomy-folder-creator",
+  "name": "lifeOS",
   "version": "1.0.0",
   "type": "module",
-  "description": "Creates folder structure from a taxonomy markdown file"
+  "author": "Jérémie Amstutz",
+  "description": "The blueprint for your digital life",
+  "main": "create-lifeOS.js",
+  "license": "MIT"
 }
