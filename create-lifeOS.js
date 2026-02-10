@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Configuration
-const INPUT_FILE = path.join(__dirname, 'personal_taxonomy.txt');
+const INPUT_FILE = path.join(__dirname, 'taxonomy.txt');
 const OUTPUT_DIR = path.join(__dirname, 'lifeOS');
 
 /**

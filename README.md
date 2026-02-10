@@ -4,7 +4,7 @@
 
 ## 📋 Overview
 
-**lifeOS** reads a taxonomy file (`personal_taxonomy.txt`) and creates a corresponding folder structure a `lifeOS` directory. The taxonomy uses indentation to represent hierarchy, making it easy to define and maintain complex organizational structures.
+**lifeOS** reads a taxonomy file (`taxonomy.txt`) and creates a corresponding folder structure a `lifeOS` directory. The taxonomy uses indentation to represent hierarchy, making it easy to define and maintain complex organizational structures.
 
 ## ✨ Features
 
@@ -28,7 +28,7 @@
    ```bash
    cd lifeOS
    ```
-3. Review and update the `personal_taxonomy.txt` file to your liking.
+3. Review and update the `taxonomy.txt` file to your liking.
 4. Run the script to create the folder structure
    ```bash
    node create-lifeOS.js
@@ -41,7 +41,7 @@
 ```
 lifeOS/
 ├── create-lifeOS.js           # Main script
-├── personal_taxonomy.txt      # Input taxonomy file
+├── taxonomy.txt               # Input taxonomy file
 ├── package.json               # Project metadata
 ├── README.md                  # This file
 └── lifeOS/                    # Generated folder structure (created by script)
@@ -49,7 +49,7 @@ lifeOS/
 
 ## 📝 Taxonomy File Format
 
-The `personal_taxonomy.txt` file uses indentation to represent folder hierarchy:
+The `taxonomy.txt` file uses indentation to represent folder hierarchy:
 
 - **4 spaces** = 1 level of indentation
 - Each line represents a folder name
@@ -86,7 +86,7 @@ lifeOS/
 
 ## 🔧 How It Works
 
-1. **Parse**: Reads `personal_taxonomy.txt` line by line
+1. **Parse**: Reads `taxonomy.txt` line by line
 2. **Analyze**: Determines hierarchy level from indentation (4 spaces = 1 level)
 3. **Build Tree**: Constructs an in-memory tree structure
 4. **Create Folders**: Recursively creates directories based on the tree structure
@@ -115,7 +115,7 @@ Feel free to fork this project and adapt it to your needs. Suggestions and impro
 
 ## 💡 Tips
 
-- Keep your `personal_taxonomy.txt` file organized
+- Keep your `taxonomy.txt` file organized
 - Use consistent numbering schemes for easier navigation
 - Consider version controlling your taxonomy file to track changes over time
 
