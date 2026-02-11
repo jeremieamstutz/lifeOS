@@ -6,10 +6,10 @@
 
 Currently, there are two high quality templates available:
 
-- `personal`: for your personal digital assets
-- `company`: for your company's digital assets
+- `personal` for your personal digital assets
+- `company` for your company's digital assets
 
-### Template Definition
+**Definition**
 ```
 000 IT & Systems
     010 Computer Setup
@@ -22,7 +22,7 @@ Currently, there are two high quality templates available:
         022 Recovery media
 ```
 
-### Template Output
+**Output**
 ```
 000 IT & Systems/
 ├── 010 Computer Setup/
@@ -39,11 +39,6 @@ Currently, there are two high quality templates available:
 
 ```bash
 npx blueprint create <template>
-```
-
-*Example:*
-```bash
-npx blueprint create personal
 ```
 
 ## 📄 License
